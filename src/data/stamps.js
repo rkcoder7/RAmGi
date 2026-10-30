@@ -1,0 +1,17 @@
+export const stamps = [
+  { id: 'entered', title: 'Through the Door', text: 'Opened the book and entered the library.' },
+  { id: 'memories', title: 'Memory Keeper', text: 'Opened all five memories in the archive.' },
+  { id: 'gallery', title: 'Gallery Visitor', text: 'Looked closely at three artworks.' },
+  { id: 'story', title: 'First Story', text: 'Read a story all the way to the last page.' },
+  { id: 'bookworm', title: 'Bookworm', text: 'Finished three stories.' },
+  { id: 'poet', title: 'Poetry Lover', text: 'Read four poems.' },
+  { id: 'riddles', title: 'Riddle Solver', text: 'Solved three riddles.' },
+  { id: 'quiz', title: 'Room Found', text: 'Discovered which room of the library you are.' },
+  { id: 'match', title: 'Sharp Memory', text: 'Matched every pair of book icons.' },
+  { id: 'fortune', title: 'Fortune Seeker', text: 'Opened the fortune book.' },
+  { id: 'wish', title: 'Wish Maker', text: 'Sent a wish up the tower.' },
+  { id: 'star', title: 'Star Namer', text: 'Built and named a constellation.' },
+  { id: 'soundtrack', title: 'Soundtrack On', text: 'Chose a song for the library.' },
+  { id: 'hidden', title: 'The Extra Door', text: 'Opened the book with no title.' },
+  { id: 'letter', title: 'Last Page', text: 'Opened the letter in the final chapter.' },
+]

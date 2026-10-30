@@ -1,0 +1,18 @@
+export const prompts = [
+  'A teacup that is slightly too tall for its saucer.',
+  'Hands holding a book that is much heavier than it looks.',
+  'A window with three different kinds of weather in it.',
+  'The shadow of a staircase on a library floor.',
+  'A pair of reading glasses resting on an open page.',
+  'A single feather falling past a tall bookshelf.',
+  'A lantern held up in a very large, very quiet room.',
+  'An old key and the door it almost fits.',
+  'A cat asleep on a stack of unread books.',
+  'Rain on a glass roof, drawn from underneath.',
+  'The reflection of a bookshelf in a puddle.',
+  'A hand reaching for the top shelf.',
+  'A bridge of paper boats across a pond.',
+  'A sleeping owl, drawn only with soft shading and no outlines.',
+  'Your favourite object on your desk, as though it were a sculpture.',
+  'An empty chair with the evening light on it.',
+]
